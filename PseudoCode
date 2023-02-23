@@ -1,0 +1,5 @@
+1. Pick an empty spot.
+2. Try all numbers.
+3. Find one that works.
+4. Repeat.
+5. Doesn't work: Backtrack
