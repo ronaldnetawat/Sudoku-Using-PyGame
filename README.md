@@ -1,9 +1,9 @@
-#Sudoku-Game-And-Solver
+# Sudoku-Game-And-Solver
 
 This is a Sudoku game solver program created using backtracking algorithm. I have built a GUI (Graphical User Interface) of this program using PyGame. 
 
 
-#Instrutions to Play
+# Instrutions to Play
 1. Run the file
 2. Click on the empty position to enter a digit
 3. Press "enter" to check 
